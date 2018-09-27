@@ -1,0 +1,6 @@
+# Archivos genéricos
+*.bak
+
+# KiCAD
+*.kicad_pcb-bak
+_autosave-*
